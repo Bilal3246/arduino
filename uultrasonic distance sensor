@@ -37,5 +37,3 @@ void loop() {
 
   delay(500);
 }
-ultrasonic_sensor_and_led.ino
-Displaying ultrasonic_sensor_and_led.ino.
